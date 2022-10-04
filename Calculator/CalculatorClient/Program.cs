@@ -12,6 +12,7 @@ namespace CalculatorClient
         {
             CalculatorReference.CalculatorServiceClient client = new CalculatorReference.CalculatorServiceClient(); 
             string choice = "";
+            double n1, n2, n3;
             while (!choice.Equals("5"))
             {
                 Console.WriteLine("\t\tCalculator");
@@ -26,20 +27,35 @@ namespace CalculatorClient
                 {
                     case "1":
                         Console.WriteLine("Enter Number 1: ");
-                        double n1 = double.Parse(Console.ReadLine());
+                        n1 = double.Parse(Console.ReadLine());
                         Console.WriteLine("Enter Number 2: ");
-                        double n2 = double.Parse(Console.ReadLine());
-                        double n3 = client.Add(n1, n2);
+                        n2 = double.Parse(Console.ReadLine());
+                        n3 = client.Add(n1, n2);
                         Console.WriteLine("The sum is : " + n3);
                         break;
                     case "2":
-
+                        Console.WriteLine("Enter Number 1: ");
+                        n1 = double.Parse(Console.ReadLine());
+                        Console.WriteLine("Enter Number 2: ");
+                        n2 = double.Parse(Console.ReadLine());
+                        n3 = client.Sub(n1, n2);
+                        Console.WriteLine("The sum is : " + n3);
                         break;
                     case "3":
-
+                        Console.WriteLine("Enter Number 1: ");
+                        n1 = double.Parse(Console.ReadLine());
+                        Console.WriteLine("Enter Number 2: ");
+                        n2 = double.Parse(Console.ReadLine());
+                        n3 = client.Mul(n1, n2);
+                        Console.WriteLine("The sum is : " + n3);
                         break;
                     case "4":
-
+                        Console.WriteLine("Enter Number 1: ");
+                        n1 = double.Parse(Console.ReadLine());
+                        Console.WriteLine("Enter Number 2: ");
+                        n2 = double.Parse(Console.ReadLine());
+                        n3 = client.Div(n1, n2);
+                        Console.WriteLine("The sum is : " + n3);
                         break;
                 }
             }

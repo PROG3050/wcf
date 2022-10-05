@@ -1,0 +1,8 @@
+D:\wcf\New folder\wcf\Login\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\wcf\New folder\wcf\Login\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\wcf\New folder\wcf\Login\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\wcf\New folder\wcf\Login\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\wcf\New folder\wcf\Login\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\wcf\New folder\wcf\Login\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\wcf\New folder\wcf\Login\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\wcf\New folder\wcf\Login\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

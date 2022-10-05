@@ -1,0 +1,8 @@
+D:\wcf\New folder\wcf\Login\LoginClient\bin\Debug\LoginClient.exe.config
+D:\wcf\New folder\wcf\Login\LoginClient\bin\Debug\LoginClient.exe
+D:\wcf\New folder\wcf\Login\LoginClient\bin\Debug\LoginClient.pdb
+D:\wcf\New folder\wcf\Login\LoginClient\obj\Debug\LoginClient.csproj.AssemblyReference.cache
+D:\wcf\New folder\wcf\Login\LoginClient\obj\Debug\LoginClient.csproj.SuggestedBindingRedirects.cache
+D:\wcf\New folder\wcf\Login\LoginClient\obj\Debug\LoginClient.csproj.CoreCompileInputs.cache
+D:\wcf\New folder\wcf\Login\LoginClient\obj\Debug\LoginClient.exe
+D:\wcf\New folder\wcf\Login\LoginClient\obj\Debug\LoginClient.pdb

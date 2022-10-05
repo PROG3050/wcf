@@ -1,0 +1,7 @@
+D:\wcf\New folder\wcf\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\wcf\New folder\wcf\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\wcf\New folder\wcf\Login\Login\bin\Login.dll.config
+D:\wcf\New folder\wcf\Login\Login\bin\Login.dll
+D:\wcf\New folder\wcf\Login\Login\bin\Login.pdb
+D:\wcf\New folder\wcf\Login\Login\obj\Debug\Login.dll
+D:\wcf\New folder\wcf\Login\Login\obj\Debug\Login.pdb
